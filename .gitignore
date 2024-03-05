@@ -1,0 +1,12 @@
+*.pyc
+var/
+sygnal.pid
+sygnal.db
+_trial_temp*
+
+/.idea
+/.eggs
+/*.egg-info
+/build
+/dist
+/.tox
